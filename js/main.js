@@ -117,7 +117,7 @@ $(document).ready(function () {
                 } catch (err) {}
             }
             var participantDiv =
-                "<div class='col-lg-3 col-sm-6 text-center mb-4'>" +
+                "<div class='col-lg-2 col-sm-6 text-center mb-4'>" +
                 "<div class='card participant-card'>" +
                 "<img class='card-img-top participant-img' src=" +
                 participant.imageurl +
